@@ -139,6 +139,9 @@ celerybeat.pid
 .envrc
 .venv
 env/
+.env/
+logs/
+ANIME_RECOMMENDER_SYSTEM_LLMOPS.egg-info/
 venv/
 ENV/
 env.bak/

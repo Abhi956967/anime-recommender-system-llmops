@@ -1,10 +1,43 @@
-langchain
-langchain-community
-langchain_groq
-chromadb
-streamlit
-pandas
-python-dotenv
-sentence-transformers
-langchain_huggingface
+# langchain
+# langchain-community
+# langchain_groq
+# chromadb
+# streamlit
+# pandas
+# python-dotenv
+# sentence-transformers
+# langchain_huggingface
 
+# ---- Core LLM / LangChain (Stable 0.1 Ecosystem) ----
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-text-splitters==0.0.2
+langchain-groq==0.0.1
+
+# ---- Vector DB ----
+chromadb==1.5.1
+
+# ---- Embeddings / NLP ----
+sentence-transformers==5.2.3
+transformers==4.57.6
+torch==2.10.0
+
+# ---- App Framework ----
+streamlit==1.54.0
+
+# ---- Data Handling ----
+pandas==2.3.3
+numpy==1.26.4
+
+# ---- Environment ----
+python-dotenv==1.2.1
+
+# ---- HuggingFace Hub ----
+huggingface_hub==0.36.2
+
+# ---- Utilities (Required Dependencies) ----
+tenacity==8.5.0
+requests==2.32.5
+pydantic==2.12.5
+typing_extensions==4.15.0
