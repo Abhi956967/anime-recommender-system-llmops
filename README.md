@@ -1,6 +1,6 @@
-## 🎥 Demo Video
-
-▶️ [Watch Demo Video](https://github.com/Abhi956967/anime-recommender-system-llmops/blob/main/Anime%20AI%20Recommender.mp4)
+## Demo
+[Link:](Anime AI Recommender.mp4)
+https://github.com/user-attachments/assets/f2acdf6a-bf20-49e4-8c52-a28efeede900
 
 ### 1. Initial Setup
 
